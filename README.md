@@ -9,7 +9,7 @@ Usage:
 
 ./folder_contend.rb -f full_folder_path -u rackspace_username -k racspace_api -c container
 
-If container do not exist it will be created and ser as a public container on CDN
+If container do not exist it will be created and set as a public container on CDN
 
 Licence MIT
 
